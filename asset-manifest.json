@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hello-world-react/static/css/main.2f9e4487.chunk.css",
+    "main.js": "/hello-world-react/static/js/main.4121c7ca.chunk.js",
+    "main.js.map": "/hello-world-react/static/js/main.4121c7ca.chunk.js.map",
+    "runtime-main.js": "/hello-world-react/static/js/runtime-main.d2f06a02.js",
+    "runtime-main.js.map": "/hello-world-react/static/js/runtime-main.d2f06a02.js.map",
+    "static/js/2.486a9bf3.chunk.js": "/hello-world-react/static/js/2.486a9bf3.chunk.js",
+    "static/js/2.486a9bf3.chunk.js.map": "/hello-world-react/static/js/2.486a9bf3.chunk.js.map",
+    "index.html": "/hello-world-react/index.html",
+    "precache-manifest.8ae79f6900d9b75e9c9cf8139cb739eb.js": "/hello-world-react/precache-manifest.8ae79f6900d9b75e9c9cf8139cb739eb.js",
+    "service-worker.js": "/hello-world-react/service-worker.js",
+    "static/css/main.2f9e4487.chunk.css.map": "/hello-world-react/static/css/main.2f9e4487.chunk.css.map",
+    "static/media/logo.svg": "/hello-world-react/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2f06a02.js",
+    "static/js/2.486a9bf3.chunk.js",
+    "static/css/main.2f9e4487.chunk.css",
+    "static/js/main.4121c7ca.chunk.js"
+  ]
+}
